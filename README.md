@@ -1,16 +1,13 @@
 # pomodoro_app
 
-A new Flutter project.
+### This is an app that will help its users to follow the Pomodoro technique (the 25-minutes rule) so that they can better focus on their tasks.
 
-## Getting Started
+(In Pomodoro technique, the follower has to work for 25 mins and then rest for 5 mins, then again work for 25 mins and rest for 5 mins and the cycle goes until 3 hours.)
 
-This project is a starting point for a Flutter application.
+- Learnt about Timer function and how data is passed from one function to another.
+- Got a more better sense of UI and widgets and how to use progress-bars.
 
-A few resources to get you started if this is your first Flutter project:
+### Here are some of the screenshots of the app:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/79656610/222979227-4346d1e1-461c-4c37-adfb-91c428b12274.png" alt="Screenshots of the app"/>
+<img src="https://user-images.githubusercontent.com/79656610/222979245-cd3df34e-5506-457d-822d-3256dc506a0e.png" alt="Screenshots of the app"/>
